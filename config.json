@@ -1,0 +1,11 @@
+{
+	"prefix": ";;",
+	"verifyRole": "1025920560208805959",
+	"owners": ["659117023502270474", "853144498146246666"],
+	"channelLogs": "1026979134448091256",
+	"dripHubicon": "https://images-ext-2.discordapp.net/external/oWOHpeoRGcbvfLzBYdJFUAocf1J3I_GrDu4dmbbAtB8/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1010906115514576896/1eae2d6270247873c306cc71c7bed2be.png?width=671&height=671",
+	"messages": {
+		"COOLDOWN_MESSAGE": "You are on `<duration>` cooldown!",
+		"CURRENCY_COOLDOWN": "Give it a rest life is not that easy, wait until `<duration>` before using this command again fag."
+	}
+}
